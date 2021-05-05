@@ -1,12 +1,19 @@
 ﻿using System;
 
-namespace Car
+namespace CarManufacturer
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Car car = new Car();
+            car.Make = "VW";
+            car.Model = "MK3";
+            car.Year = 1992;
+
+
+            Console.WriteLine($"Make: {car.Make} Model {car.Model} Year {car.Year}");
+
         }
     }
 }

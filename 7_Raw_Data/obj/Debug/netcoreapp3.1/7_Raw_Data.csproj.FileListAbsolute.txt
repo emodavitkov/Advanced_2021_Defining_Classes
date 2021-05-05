@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\bin\Debug\netcoreapp3.1\7_Raw_Data.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\bin\Debug\netcoreapp3.1\7_Raw_Data.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\bin\Debug\netcoreapp3.1\7_Raw_Data.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\bin\Debug\netcoreapp3.1\7_Raw_Data.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\bin\Debug\netcoreapp3.1\7_Raw_Data.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\bin\Debug\netcoreapp3.1\7_Raw_Data.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\7_Raw_Data\obj\Debug\netcoreapp3.1\7_Raw_Data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\bin\Debug\netcoreapp3.1\People_Excercise.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\bin\Debug\netcoreapp3.1\People_Excercise.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\bin\Debug\netcoreapp3.1\People_Excercise.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\bin\Debug\netcoreapp3.1\People_Excercise.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\bin\Debug\netcoreapp3.1\People_Excercise.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\bin\Debug\netcoreapp3.1\People_Excercise.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\obj\Debug\netcoreapp3.1\People_Excercise.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\obj\Debug\netcoreapp3.1\People_Excercise.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\obj\Debug\netcoreapp3.1\People_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\obj\Debug\netcoreapp3.1\People_Excercise.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\obj\Debug\netcoreapp3.1\People_Excercise.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\People_Excercise\obj\Debug\netcoreapp3.1\People_Excercise.genruntimeconfig.cache

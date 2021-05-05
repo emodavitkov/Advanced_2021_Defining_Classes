@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\bin\Debug\netcoreapp3.1\8_Car_Salesman.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\bin\Debug\netcoreapp3.1\8_Car_Salesman.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\bin\Debug\netcoreapp3.1\8_Car_Salesman.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\bin\Debug\netcoreapp3.1\8_Car_Salesman.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\bin\Debug\netcoreapp3.1\8_Car_Salesman.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\bin\Debug\netcoreapp3.1\8_Car_Salesman.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\8_Car_Salesman\obj\Debug\netcoreapp3.1\8_Car_Salesman.genruntimeconfig.cache

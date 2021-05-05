@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\bin\Debug\netcoreapp3.1\3.CarConstructors.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\3.CarConstructors\obj\Debug\netcoreapp3.1\3.CarConstructors.genruntimeconfig.cache

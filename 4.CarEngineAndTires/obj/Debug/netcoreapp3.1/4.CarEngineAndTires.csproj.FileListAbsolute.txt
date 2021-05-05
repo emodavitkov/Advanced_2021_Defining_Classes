@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\bin\Debug\netcoreapp3.1\4.CarEngineAndTires.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\4.CarEngineAndTires\obj\Debug\netcoreapp3.1\4.CarEngineAndTires.genruntimeconfig.cache

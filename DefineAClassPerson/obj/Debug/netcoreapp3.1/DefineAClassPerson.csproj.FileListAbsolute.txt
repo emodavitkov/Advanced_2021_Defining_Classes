@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\bin\Debug\netcoreapp3.1\6_SpeedRacing.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\bin\Debug\netcoreapp3.1\6_SpeedRacing.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\bin\Debug\netcoreapp3.1\6_SpeedRacing.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\bin\Debug\netcoreapp3.1\6_SpeedRacing.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\bin\Debug\netcoreapp3.1\6_SpeedRacing.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\bin\Debug\netcoreapp3.1\6_SpeedRacing.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\6_SpeedRacing\obj\Debug\netcoreapp3.1\6_SpeedRacing.genruntimeconfig.cache
