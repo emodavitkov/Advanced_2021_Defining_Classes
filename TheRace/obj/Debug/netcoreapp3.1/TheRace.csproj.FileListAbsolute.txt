@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache

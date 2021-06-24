@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache

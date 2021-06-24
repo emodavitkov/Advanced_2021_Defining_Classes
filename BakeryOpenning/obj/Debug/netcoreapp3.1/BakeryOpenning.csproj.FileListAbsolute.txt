@@ -1,0 +1,12 @@
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Defining_Classes\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache
