@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Collections.Generic;
+using System.Text;
 
 namespace CocktailParty
 {
@@ -9,24 +10,24 @@ namespace CocktailParty
             Name = name;
             Alcohol = alcohol;
             Quantity = quantity;
+
         }
 
         public string Name { get; set; }
+
         public int Alcohol { get; set; }
+
         public int Quantity { get; set; }
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var result = new StringBuilder();
 
-            sb
-                .AppendLine($"Ingredient: {Name}")
-                .AppendLine($"Quantity: {Quantity}")
-                .AppendLine($"Alcohol: {Alcohol}");
+            result.AppendLine($"Ingredient: {Name}");
+            result.AppendLine($"Quantity: {Quantity}");
+            result.Append($"Alcohol: {Alcohol}");
 
-            return sb.ToString().TrimEnd();
+            return result.ToString();
         }
-
-        
     }
 }

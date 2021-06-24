@@ -7,76 +7,64 @@ namespace CocktailParty
 {
     public class Cocktail
     {
-        private List<Ingredient> ingredient;
-
         public Cocktail(string name, int capacity, int maxAlcoholLevel)
         {
             Name = name;
             Capacity = capacity;
             MaxAlcoholLevel = maxAlcoholLevel;
-            ingredient = new List<Ingredient>();
+            Ingredients = new List<Ingredient>();
         }
+
         public string Name { get; set; }
+
         public int Capacity { get; set; }
+
         public int MaxAlcoholLevel { get; set; }
 
-        // public int 
+        public int CurrentAlcoholLevel => Ingredients.Sum(i => i.Alcohol);
 
-        public int CurrentAlcoholLevel => 123456;
+        public ICollection<Ingredient> Ingredients { get; set; }
 
         public void Add(Ingredient ingredient)
         {
-
-            if (!this.ingredient.Contains(ingredient) &&ingredient.Quantity>0 && ingredient.Alcohol>0)
+            if (!Ingredients.Any(i => i.Name == ingredient.Name)
+                && Ingredients.Count < Capacity
+                && (CurrentAlcoholLevel + ingredient.Alcohol <= MaxAlcoholLevel))
             {
-                this.ingredient.Add(ingredient);
+                Ingredients.Add(ingredient);
             }
         }
 
         public bool Remove(string name)
         {
-            //Car car = data.FirstOrDefault(p => p.Manufacturer == manifacturer && p.Model == model);
-            Ingredient ingredient = this.ingredient.FirstOrDefault(c => c.Name == name);
-            if (ingredient==null)
+            var ingredient = FindIngredient(name);
+            if (ingredient == null)
             {
                 return false;
             }
 
-            this.ingredient.Remove(ingredient);
+            Ingredients.Remove(ingredient);
             return true;
         }
 
         public Ingredient FindIngredient(string name)
         {
-            Ingredient ingredient = this.ingredient.FirstOrDefault(n => n.Name == name);
-            if (ingredient==null)
-            {
-                return null;
-            }
-
-            return ingredient;
+            return Ingredients.Where(i => i.Name == name).FirstOrDefault();
         }
 
         public Ingredient GetMostAlcoholicIngredient()
         {
-            Ingredient ingredient = this.ingredient.OrderByDescending(a => a.Alcohol).FirstOrDefault();
-            return ingredient;
-
+            return Ingredients.OrderByDescending(i => i.Alcohol).FirstOrDefault();
         }
 
         public string Report()
         {
-            StringBuilder result = new StringBuilder();
-            result.AppendLine($"Cocktail: {Name} - Current Alcohol Level: {CurrentAlcoholLevel}");
+            var result = new StringBuilder();
 
-            foreach (var item in this.ingredient)
-            {
-                result.AppendLine($"{item}");
-            }
+            result.AppendLine($"Cocktail: {Name} - Current Alcohol Level: {CurrentAlcoholLevel}");
+            result.AppendJoin(Environment.NewLine, Ingredients);
 
             return result.ToString();
         }
-
-
     }
 }
